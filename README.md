@@ -17,7 +17,7 @@ A simple Python-based port scanner script that scans a specified range of ports 
 
 1. Clone this repository:
    ```bash
-   git clone 
+   git clone https://github.com/hazik-khalid/Port-Scanner
    ```
 2. Navigate to the project directory:
    ```bash
